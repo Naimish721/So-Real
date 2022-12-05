@@ -1,0 +1,19 @@
+.container{
+    justify-content: center;
+    text-align: center;
+    margin: 0 48px;
+    overflow-x: hidden;
+}
+/* a{
+    margin-right: -109px;
+} */
+.mt-3 input{
+    border: 2px solid black;
+    margin: 0 1px;
+    margin-left: -95px;
+}
+.mt-3 textarea{
+    border: 2px solid black;
+    margin: 0 1px;
+    margin-left: -95px;
+}
