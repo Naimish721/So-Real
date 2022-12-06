@@ -8,7 +8,7 @@ const upload = multer({ storage: storage });
 const authController = require("../controllers/auth.controller");
 const mediaController = require("../controllers/media.controller");
 const feedsController = require("../controllers/feeds.controller");
-const noteController = require("../controllers/note.controller");
+// const noteController = require("../controllers/note.controller");
 
 router.get("/", feedsController.feeds);
 
